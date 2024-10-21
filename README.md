@@ -1,2 +1,2 @@
 # Tic-Tac-Game
-live preview --- https://vercel.com/ankush-rais-projects/tic-tac-game
+live preview --- https://tic-tac-game-phi.vercel.app/
